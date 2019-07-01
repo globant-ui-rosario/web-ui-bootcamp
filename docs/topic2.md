@@ -100,7 +100,11 @@ Add the following rules the previous css created.
 
 - Investigate about _layout systems_
 - Using your own layout system, implement an image gallery based on this `mock up`:
+
+
 ![](https://raw.githubusercontent.com/globant-ui/css-lab/master/images/example-layout.png?s=300)
+
+
 - Adapt your image gallery to support _responsive design_.
 
 [<- To index](../README.md#title) - [Topic 3 - Javascript ->](./topic3.md)

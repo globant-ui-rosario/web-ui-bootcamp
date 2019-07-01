@@ -92,7 +92,9 @@ Add the following rules the previous css created.
 
 4.A
 
-- Modify your CSS to reach something similar to the initial layout asked.
+- Modify your CSS to reach something similar to this layout:
+
+![](https://raw.githubusercontent.com/globant-ui/css-lab/master/images/html5-structure.png)
 
 4.B
 

@@ -89,6 +89,7 @@ Add the following rules the previous css created.
 - [Grid Systems](http://www.adamkaplan.me/grid/)
 - [CSS Floats](http://alistapart.com/article/css-floats-101)
 - [CSS units](http://alistapart.com/article/love-the-boring-bits-of-css)
+- [Different kinds of CSS Layout](https://css-tricks.com/guides/layout)
 
 4.A
 

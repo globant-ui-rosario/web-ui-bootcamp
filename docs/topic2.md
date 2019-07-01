@@ -98,8 +98,9 @@ Add the following rules the previous css created.
 
 4.B
 
-- Learn about layout system
-- Using your own layout system, implement an HTML page with a header. Three columns in the middle and one column for the footer.
+- Investigate about _layout systems_
+- Using your own layout system, implement an image gallery based on this `mock up`:
+
 - Adapt your the template system to work on three different breakpoints.
 
 [<- To index](../README.md#title) - [Topic 3 - Javascript ->](./topic3.md)

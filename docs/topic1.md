@@ -18,7 +18,7 @@ This topic will be very important to start creating the base of UI programing.
 
 After this presentation and reading of the HTML documentation, we are ready for fun. It's time to develop, are you ready?
 
-> Is prefered a 'commit' point by point... That way is posible to see the progress and identify the problems easily.
+> Is preferred a 'commit' point by point... That way is possible to see the progress and identify the problems easily.
 
 ### HTML Basics
 

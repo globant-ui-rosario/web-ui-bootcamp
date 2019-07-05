@@ -54,7 +54,7 @@
 
   * Add an interface for the getDayAfter function.
 
-2.
+2.A
 
   * Create a file called `index.html` with the correct doctype, header, meta, etc.
 
@@ -98,7 +98,7 @@
 
   * [Debounce](https://css-tricks.com/debouncing-throttling-explained-examples/) the input to improve the perfomance
 
-4.  
+4.A  
 
   * Write a function that takes as input a matrix of data and outputs a DOM structure representing a table. Attach it to the body of a given page.
 

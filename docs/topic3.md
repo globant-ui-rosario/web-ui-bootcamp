@@ -21,6 +21,13 @@
 * JavaScript objects
 
   - [Object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+
+* Client-side web APIs
+
+  - [Introduction to web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
+  - [Manipulating documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+  - [Fetching data from the server](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
+  - [Third party APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)
   
 
 *Latest IE, Chrome and Firefox browser should be used. All exercises must be done with ECMAScript 6 syntax.*
@@ -38,14 +45,6 @@
 
   * Create a function that takes a day and a number _n_ and return the day after the _n_ days (for example getDayAfter('Monday', 4) will return 'Friday'). Show an alert if any argument is invalid with a meaningful message.
 
-
-* Client-side web APIs
-
-  - [Introduction to web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
-  - [Manipulating documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
-  - [Fetching data from the server](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
-  - [Third party APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)
- 
 1.C
   
   * Create a `html` file with the correct doctype, header, meta, etc.

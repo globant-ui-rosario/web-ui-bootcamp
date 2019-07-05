@@ -37,13 +37,13 @@
 1.A
 
   * Create a function that takes a word and validate if it's a palindrome. If the argument isn't valid display an alert showing:
-  "The type: <argument type> isn't valid"
+  "The type: `<argument type>` isn't valid"
 
   * Modify the previous function to support any string (word and phrases). For example: "Eva, can I see bees in a cave?"
 
 1.B 
 
-  * Create a function that takes a day and a number _n_ and return the day after the _n_ days (for example getDayAfter('Monday', 4) will return 'Friday'). Show an alert if any argument is invalid with a meaningful message.
+  * Create a function that takes a day and a number _n_ and return the day after the _n_ days (for example `getDayAfter('Monday', 4)` will return 'Friday'). Show an alert if any argument is invalid with a meaningful message.
 
 1.C
   
@@ -103,7 +103,7 @@
 
   * **Hint:** use `document.createElement`, `document.createTextNode`, and `Node.appendChild` methods.
 
-* Extra documentation
+**Extra documentation**
 
  - [devdocs.io](http://devdocs.io/)
  - [MDN Javascript Reference](https://developer.mozilla.org/en/JavaScript/Reference)

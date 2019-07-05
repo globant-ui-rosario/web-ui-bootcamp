@@ -23,6 +23,8 @@
   - [Object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
   
 
+*Latest IE, Chrome and Firefox browser should be used. All exercises must be done with ECMAScript 6 syntax.*
+
 **Practice**
 
 1.A
@@ -38,26 +40,21 @@
 
   * 
 
-*Latest IE, Chrome and Firefox browser should be used. All exercises must be done with ECMAScript 6 syntax.*
+2.A
 
-1.  Creating our index page with some sections.
+  * Create a file called `index.html` with the correct doctype and some random content.
 
-    *   Create a file called `index.html` with the correct doctype and some random content.
+  * Add a stylesheet to the HTML file and use it to center the texts of all `section` elements.
 
-    *   Add a stylesheet to the HTML file and use it to center the texts of all `section` elements.
+  * Add a hidden `section` with `Hello World` inside of it.
 
-    *   Add a hidden `section` with `Hello World` inside of it.
+  * When the page finished loading the section must fade in.
 
-    *   When the page finished loading the section must fade in.
+2.B 
 
-2.  Adding some events
+  * Add an interface for the palindrome function: create an `input type=text` that takes the string and a button to validate it. Print the result.
 
-    *   Add a button below the `section` to your index page.
-
-    *   Create a function that showcases an alert message when called.
-
-    *   Attach a click event to the created button which calls the function previously created.
-
+  * Add an interface for the getDayAfter function.
 
 3.  Data fetching
 

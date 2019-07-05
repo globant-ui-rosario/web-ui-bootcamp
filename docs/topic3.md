@@ -38,57 +38,79 @@
 
   * Create a function that takes a day and a number _n_ and return the day after the _n_ days (for example getDayAfter('Monday', 4) will return 'Friday'). Show an alert if any argument is invalid with a meaningful message.
 
-  * 
 
-2.A
+* Client-side web APIs
 
-  * Create a file called `index.html` with the correct doctype and some random content.
+  - [Introduction to web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
+  - [Manipulating documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+  - [Fetching data from the server](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
+  - [Third party APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)
+ 
+1.C
+  
+  * Create a `html` file with the correct doctype, header, meta, etc.
+
+  * Add an interface for the palindrome function: create an `input type=text` that takes the string and a button to validate it. Print the result.
+
+  * Add an interface for the getDayAfter function.
+
+2.
+
+  * Create a file called `index.html` with the correct doctype, header, meta, etc.
 
   * Add a stylesheet to the HTML file and use it to center the texts of all `section` elements.
 
   * Add a hidden `section` with `Hello World` inside of it.
 
   * When the page finished loading the section must fade in.
+  
+  * Add a button below the section of your index page.
 
-2.B 
+  * Create a function that showcases an alert message when called.
 
-  * Add an interface for the palindrome function: create an `input type=text` that takes the string and a button to validate it. Print the result.
+  * Attach a click event to the created button which calls the function previously created.
 
-  * Add an interface for the getDayAfter function.
+3.A
 
-3.  Data fetching
+  * Copy the `index.html` defined in the previous exercise.
 
-    *   Create a function to get the response from [http://api.icndb.com/jokes/random](http://api.icndb.com/jokes/random).
+  * Create a function to get the response from [http://api.icndb.com/jokes/random](http://api.icndb.com/jokes/random) using XMLHttpRequest.
 
-    *   Replace the button's click event with this new function.
+  * Add a button with a click event with this new function.
 
-    *   Write the response inside the `section` element.
+  * Write the response inside the `section` element.
 
-    *   Create a reusable function to perform AJAX calls. This function must accept a `config` object and return an ES6 Promise.
+  * Create a reusable function to perform AJAX calls using the `fetch` API and re-implement the previous function.
 
-    *   If a server error occurs `section` content must turn red.
+  * If a server error occurs `section` content must turn red.
 
-    *   **Hint:** Use the XMLHttpRequest to fetch data from the service.
+  * Implement some mechanism to avoid getting the same joke. 
 
-4.  Data fetching with parameters
+3.B
 
-    *   Create a function to get the response from [https://api.github.com/search/repositories](https://api.github.com/search/repositories) with parameters `q = 'JavaScript'`.
+  * Create a function to get the response from [https://api.github.com/search/repositories](https://api.github.com/search/repositories) with parameters `q = 'JavaScript'`.
 
-    *   Showcase a list of repositories, provided by the service, in the right side of the screen.
+  * Showcase a list of repositories, provided by the service, in the right side of the screen.
 
-    *   **Hint:** `ul` must be used to list the repositories.
+  *  **Hint:** `ul` must be used to list the repositories.
 
-    *   Add an input with `type="text"` to perform a search for any value.
+  * Add an input with `type="text"` to perform a search for any value.
 
-5.  W3C
+  * [Debounce](https://css-tricks.com/debouncing-throttling-explained-examples/) the input to improve the perfomance
 
-    *   Validate your page using W3C validator: [https://addons.mozilla.org/en-US/firefox/addon/web-developer/](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
+4.  
 
-6.  DOM manipulation
+  * Write a function that takes as input a matrix of data and outputs a DOM structure representing a table. Attach it to the body of a given page.
 
-    *   Write a function that takes as input a matrix of data and outputs a DOM structure representing a table. Attach it to the body of a given page.
+  * **Hint:** use `document.createElement`, `document.createTextNode`, and `Node.appendChild` methods.
 
-    *   **Hint:** use `document.createElement`, `document.createTextNode`, and `Node.appendChild` methods.
+* Extra documentation
+
+ - [devdocs.io](http://devdocs.io/)
+ - [MDN Javascript Reference](https://developer.mozilla.org/en/JavaScript/Reference)
+ - JSONP and CORS: [http://json-p.org/](http://json-p.org/) - [http://www.html5rocks.com/en/tutorials/cors/](http://www.html5rocks.com/en/tutorials/cors/)
+ - Using Chrome console to debug JavaScript [https://developer.chrome.com/devtools/docs/console](https://developer.chrome.com/devtools/docs/console)
+ - [Eloquent javascript](http://eloquentjavascript.net/)
 
 
 [<- To index](../README.md#title) - [Topic 4 - Frameworks ->](./topic4.md)

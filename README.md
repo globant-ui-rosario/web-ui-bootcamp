@@ -9,9 +9,10 @@ Welcome to Globant's training for Web UI Developers.
 - [Topic 0 - Introduction](./docs/topic0.md)
 - [Topic 1 - HTML](./docs/topic1.md)
 - [Topic 2 - CSS](./docs/topic2.md)
-- [Topic 3 - Javascript](./docs/topic3.md)
-- [Topic 4 - Frameworks](./docs/topic4.md)
-- [Topic 5 - Project](./docs/topic5.md)
+- [Topic 3 - Javascript - DOM](./docs/topic3.md)
+- [Topic 4 - Javascript - Design Patterns](./docs/topic4.md)
+- [Topic 5 - Frameworks](./docs/topic5.md)
+- [Topic 6 - Project](./docs/topic6.md)
 
 ## Bibliography
 

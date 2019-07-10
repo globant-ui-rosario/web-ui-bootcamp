@@ -12,6 +12,7 @@ But there aren't the classic classes from another Object-Oriented languages
 - [Object-oriented JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
 - [Object prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
 - [Inheritance](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
+- [Module Patterns](https://www.freecodecamp.org/news/javascript-modules-a-beginner-s-guide-783f7d7a5fcc/)
 - [ES6 Modules](https://ponyfoo.com/articles/es6-modules-in-depth)
 
 **Extra documentation**

@@ -17,7 +17,7 @@ But there aren't the classic classes from another Object-Oriented languages
 
 **Extra documentation**
 
-- Understand how *prototypes* works in ECMAScript 5.1 [http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/)
+- Understand how [prototypes](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/) works in ECMAScript 5.1
 
 - Read the Chapter on JavaScript classes from [*Understanding ECMAScript6*](https://leanpub.com/understandinges6/read#leanpub-auto-classes)
 

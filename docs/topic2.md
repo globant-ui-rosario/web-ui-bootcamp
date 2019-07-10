@@ -108,4 +108,4 @@ Add the following rules the previous css created.
 
 - Adapt your image gallery to support _responsive design_.
 
-[<- To index](../README.md#title) - [Topic 3 - Javascript ->](./topic3.md)
+[<- To index](../README.md#title) - [Topic 3 - Javascript - DOM ->](./topic3.md)

@@ -1,4 +1,4 @@
-# Topic 3 - Javascript
+# Topic 3 - Javascript - DOM
 
 
 **Documentation**
@@ -28,7 +28,7 @@
   - [Manipulating documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
   - [Fetching data from the server](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
   - [Third party APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)
-  
+
 
 *Latest IE, Chrome and Firefox browser should be used. All exercises must be done with ECMAScript 6 syntax.*
 
@@ -41,12 +41,12 @@
 
   * Modify the previous function to support any string (word and phrases). For example: "Eva, can I see bees in a cave?"
 
-1.B 
+1.B
 
   * Create a function that takes a day and a number _n_ and return the day after the _n_ days (for example `getDayAfter('Monday', 4)` will return 'Friday'). Show an alert if any argument is invalid with a meaningful message.
 
 1.C
-  
+
   * Create a `html` file with the correct doctype, header, meta, etc.
 
   * Add an interface for the palindrome function: create an `input type=text` that takes the string and a button to validate it. Print the result.
@@ -62,7 +62,7 @@
   * Add a hidden `section` with `Hello World` inside of it.
 
   * When the page finished loading the section must fade in.
-  
+
   * Add a button below the section of your index page.
 
   * Create a function that showcases an alert message when called.
@@ -83,7 +83,7 @@
 
   * If a server error occurs `section` content must turn red.
 
-  * Implement some mechanism to avoid getting the same joke. 
+  * Implement some mechanism to avoid getting the same joke.
 
 3.B
 
@@ -112,4 +112,4 @@
  - [Eloquent javascript](http://eloquentjavascript.net/)
 
 
-[<- To index](../README.md#title) - [Topic 4 - Frameworks ->](./topic4.md)
+[<- To index](../README.md#title) - [Topic 4 - Javascript - Design patterns ->](./topic4.md)

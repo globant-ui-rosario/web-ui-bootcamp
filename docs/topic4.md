@@ -1,21 +1,25 @@
 # Topic 4 - Javascript - Design patterns
 
-In this Topic we will focus on learning how JavaScript approaches Object-Oriented programming.
+In this Topic we will focus on learning how JavaScript approaches Object-Oriented programming and
+some patterns to group related functionality together.
 
 If you come from Java, or .NET you will find yourself a little bit lost at the beggining.
 ECMAScript6 provides a layer of syntactic sugar over the previous version (5.1) that is expected to simplify the language.
+But there aren't the classic classes from another Object-Oriented languages
 
 **Documentation**
 
-1. Understand how *prototypes* works in ECMAScript 5.1 [http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/)
+- [Object-oriented JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
+- [Object prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+- [Inheritance](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
+- [ES6 Modules](https://ponyfoo.com/articles/es6-modules-in-depth)
 
-2. ECMAScript 6 New Features: [http://es6-features.org/](http://es6-features.org/). You can compare ECMAScript 5 and 6 code.
+**Extra documentation**
 
-3. Read the Chapter on JavaScript classes from [*Understanding ECMAScript6*](https://leanpub.com/understandinges6/read#leanpub-auto-classes)
+- Understand how *prototypes* works in ECMAScript 5.1 [http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/)
 
-4. Read about [ES6 Modules](https://ponyfoo.com/articles/es6-modules-in-depth)  
+- Read the Chapter on JavaScript classes from [*Understanding ECMAScript6*](https://leanpub.com/understandinges6/read#leanpub-auto-classes)
 
-6. An overview on all the features ECMAScript provides [https://github.com/lukehoban/es6features](https://github.com/lukehoban/es6features)
 
 **Practice**
 
@@ -162,8 +166,4 @@ ECMAScript6 provides a layer of syntactic sugar over the previous version (5.1) 
 
     **Hint:** check out [this](https://babeljs.io/docs/usage/cli/)
 
-**Key Points**
-
-3, 4, 5, 6
-
-[<- To index](../README.md#title) - [Topic 5 - Project ->](./topic5.md)
+[<- To index](../README.md#title) - [Topic 5 - Frameworks ->](./topic5.md)

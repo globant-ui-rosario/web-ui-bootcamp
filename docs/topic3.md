@@ -39,7 +39,7 @@
   * Create a function that takes a word and validate if it's a palindrome. If the argument isn't valid display an alert showing:
   "The type: `<argument type>` isn't valid"
 
-  * Modify the previous function to support any string (word and phrases). For example: "Eva, can I see bees in a cave?"
+  * Modify the previous function to support any string (word and phrases). For example: "Eva, can I see bees in a cave?" (_Optional_)
 
 1.B 
 
@@ -83,7 +83,7 @@
 
   * If a server error occurs `section` content must turn red.
 
-  * Implement some mechanism to avoid getting the same joke. 
+  * Implement some mechanism to avoid getting the same joke. (_Optional_)
 
 3.B
 
@@ -95,7 +95,7 @@
 
   * Add an input with `type="text"` to perform a search for any value.
 
-  * [Debounce](https://css-tricks.com/debouncing-throttling-explained-examples/) the input to improve the perfomance
+  * [Debounce](https://css-tricks.com/debouncing-throttling-explained-examples/) the input to improve the perfomance (_Optional_)
 
 4.A  
 

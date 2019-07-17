@@ -95,7 +95,7 @@
 
   * Add an input with `type="text"` to perform a search for any value.
 
-  * [Debounce](https://css-tricks.com/debouncing-throttling-explained-examples/) the input to improve the perfomance (_Optional_)
+  * Perform the search when the user type a value in the input, use [Debounce](https://css-tricks.com/debouncing-throttling-explained-examples/) to improve the perfomance (_Optional_)
 
 4.A  
 

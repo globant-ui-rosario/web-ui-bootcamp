@@ -49,6 +49,6 @@ For the exercises one and two, create a txt file with your thoughts and submit i
 1. Analyze and think about the components that are needed to create a tic tac toe.
 2. Think in which place you should place the state of the component.
 3. Make your thoughts real. Create the components you have thinked in the point before.
-To complete the game and have some fun, follow the guide available in the official [documentatio](https://reactjs.org/tutorial/tutorial.html#completing-the-game).
+To complete the game and have some fun, follow the guide available in the official [documentation](https://reactjs.org/tutorial/tutorial.html#completing-the-game).
 
 [<- To index](../README.md#title) - [Topic 6 - Project ->](./topic6.md)

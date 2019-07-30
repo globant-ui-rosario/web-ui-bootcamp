@@ -8,7 +8,6 @@ Congratulations, your first projects starts today! It's time to test your new sk
 1. [Select the framework](#select-the-framework)
 2. [Select a topic](#select-a-topic)
 3. [Requirements](#requirements)
-4. [Time to code](#time-to-code)
 
 ## Select the framework
 

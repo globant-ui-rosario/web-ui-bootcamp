@@ -24,15 +24,20 @@ The frameworks are:
 The topic will be the main theme behind your project. After choose the topic you will have the business rules that are required to build around the topic.
 It will be good if you choose something that you're passionate about. That will allow you to potentiate your magic.
 
-- Video game API 
-- Github API 
-- IMDB API
-- Spotify API 
+- [Github API](https://developer.github.com/v3/) - needs authentication 
+- [Movies API](http://www.omdbapi.com/)
+- [Spotify API](https://developer.spotify.com)
+- [World of Warcraft API](https://develop.battle.net/) - needs authentication 
 - Other
 
 ## Requirements
 
+1. Create a project by using the CLI of the framework selected.
+2. Think and create the layout of you application. That layout will be use in all the pages.
+3. The layout must have at least a sidebar or tabs menu with a list of links to navigate between the pages. 
+4. The minimun amount of pages is three.
+5. One of the pages must have the description of your idea and the other ones must showcase the result of queries.
 
-## Time to code
+Now is time to code. Let's do it!!
 
 [<- To index](../README.md#title)
